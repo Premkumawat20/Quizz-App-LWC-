@@ -1,0 +1,20 @@
+.quiz-container {
+    width: 305%;
+    max-width: 310%;
+}
+
+lightning-card {
+    width: 100%;
+}
+
+.slds-card {
+    width: 100%;
+}
+
+.slds-card__body {
+    width: 100%;
+}
+
+.card{
+    margin-left: 10px;
+}
